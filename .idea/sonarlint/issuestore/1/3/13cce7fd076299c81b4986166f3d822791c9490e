@@ -1,0 +1,10 @@
+
+Npython:S1066["/Merge this if statement with the enclosing one.(ÜŞçÆ8§À—»é.
+fpython:S2208"GImport only needed names or import the module and then use its members.(³Âá…8ˆ»ººé.
+spython:S3776x"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄÆı­8úìğºé.
+xpython:S3776D"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÌÁô“ıÿÿÿÿ8¡àºé.
+‚python:S117("_Rename this local variable "randomVelocity" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ïÅÀşÿÿÿÿ8ˆ»ººé.
+xpython:S117""ZRename this local variable "midScreen" to match the regular expression ^[_a-z][a-z0-9_]*$.(øèüı8ˆ»ººé.
+Npython:S1066e"/Merge this if statement with the enclosing one.(è©ï¥8ˆ»ººé.
+€python:S117#"]Rename this local variable "zeroVelocity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿á²éıÿÿÿÿ8ˆ»ººé.
+‚python:S117'"_Rename this local variable "randomLocation" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Òµûÿÿÿÿ8ˆ»ººé.
